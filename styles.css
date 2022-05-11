@@ -1,0 +1,31 @@
+h1 {
+  font-family: "Lucida Console";
+  font-weight: bold;
+  text-align: center;
+  color: BlueViolet;
+  
+}
+
+h2 {
+ font-family: "Lucida Console";
+ background-color: Azure;
+}
+
+body {
+  font-family: Monospace;
+}
+
+.tables {
+  border: 2px solid darkblue;
+  width: 650px;
+  margin: 0 auto;
+}
+
+td {
+  border-top: 1px solid darkblue;
+}
+
+thead {
+  background-color: darkslateblue;
+  color: white;
+}
